@@ -1,0 +1,27 @@
+body { 
+    margin: 0;
+    padding: 0;
+}
+
+
+.header { 
+    background-color: teal;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+    height: 50px;
+    font-weight: 900;
+    padding: 5rem;
+}
+
+.header-title { 
+    padding: 20px;
+}
+
+
+.kotak { 
+    height: 400px;
+    width: 100%;
+    background-color: brown;
+    position: fixed;
+}
